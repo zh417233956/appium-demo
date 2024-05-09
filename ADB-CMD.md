@@ -121,7 +121,7 @@ adb shell pm list packages --user <userId>
 原文链接：https://blog.csdn.net/qq_45649553/article/details/135110663
 ```
 # 滑动
-``
+```
 滑动
 
 1.命令：adb input swipe 600 800 300 800（向右滑动）
